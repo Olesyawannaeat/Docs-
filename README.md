@@ -4,6 +4,5 @@
 
 ## Тест-кейсы на основании проверок из чек-листа для регистрации, логина и каталога
 🔗[Тест-кейсы - ссылка](https://app.qase.io/project/G9?suite=124)  
-🔗[Тест-кейсы - pdf](https://github.com/Olesyawannaeat/Docs-/blob/main/G9-Kovalenko_ON.pdf) 
+🔗[Тест-кейсы - pdf](https://github.com/Olesyawannaeat/Docs-/blob/main/G9-Kovalenko.pdf) 
 
-🔗[Тест-кейсы - pdf](https://github.com/Olesyawannaeat/Docs-/blob/main/G9-Kovalenko_ON.pdf)  
